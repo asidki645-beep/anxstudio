@@ -1,0 +1,168 @@
+{
+  "brand": "ANX Studio",
+  "domain": "anxstudiodigital.com",
+  "language": "en",
+  "socials": {
+    "instagram": "https://www.instagram.com/anx.studio.digital/",
+    "tiktok": "https://www.tiktok.com/@anassidky882",
+    "youtube": "https://www.youtube.com/channel/UC2mv4DfK7O_b3Ghnu4fk3_w"
+  },
+  "resources": [
+    {
+      "slug": "short-video-scriptwriter",
+      "title": "Short Video Scriptwriter",
+      "category": "skills",
+      "description": "Generate engaging short-form video scripts for TikTok, Reels, and Shorts.",
+      "overview": "Turn an idea into a clear hook, scene outline, narration, and call to action.",
+      "benefits": [
+        "Hook and audience brief",
+        "Scene-by-scene script structure",
+        "Narration and caption suggestions"
+      ],
+      "includedFiles": [],
+      "includedFilesNote": "No downloadable ChatGPT Skill package is included in this preview.",
+      "requirements": [],
+      "requirementsNote": "Tool, model, and installation requirements have not been confirmed.",
+      "usageInstructions": [
+        "Supply your topic, target audience, and desired duration.",
+        "Review the generated script and adapt its claims before publishing."
+      ],
+      "image": "/assets/previews/short-video-scriptwriter.webp",
+      "imageAlt": "Preview artwork showing a short-form video script interface",
+      "imageWidth": 552,
+      "imageHeight": 344,
+      "contentStatus": "preview",
+      "featured": true
+    },
+    {
+      "slug": "product-photo-prompt-pack",
+      "title": "Product Photo Prompt Pack",
+      "category": "prompts",
+      "description": "Ready-to-customize prompts for product photography concepts.",
+      "overview": "Plan clean studio shots, natural-light scenes, and editorial product visuals.",
+      "benefits": [
+        "Studio lighting directions",
+        "Material and background prompts",
+        "Composition and negative-space options"
+      ],
+      "includedFiles": [],
+      "includedFilesNote": "The full prompt collection has not been supplied for this preview.",
+      "requirements": [],
+      "requirementsNote": "Compatible image tools and model requirements have not been confirmed.",
+      "usageInstructions": [
+        "Replace the product, brand colors, materials, and setting placeholders.",
+        "Review and refine the result for the image tool and reference images you use."
+      ],
+      "image": "/assets/previews/product-photo-prompt-pack.webp",
+      "imageAlt": "Preview collage of neutral product photography and a prompt card",
+      "imageWidth": 552,
+      "imageHeight": 344,
+      "contentStatus": "preview",
+      "featured": true
+    },
+    {
+      "slug": "clean-reel-captions",
+      "title": "Clean Reel Captions",
+      "category": "templates",
+      "description": "Animated caption styling for modern vertical videos.",
+      "overview": "A clean caption concept with blue, purple, and cyan highlights.",
+      "benefits": [
+        "Vertical caption layout concept",
+        "Color and typography reference",
+        "Preview of the intended editing style"
+      ],
+      "includedFiles": [],
+      "includedFilesNote": "No CapCut project file or published template link is included.",
+      "requirements": [],
+      "requirementsNote": "CapCut version, region availability, and Free or Pro requirements are unknown.",
+      "usageInstructions": [
+        "Use the still preview to evaluate the intended caption style.",
+        "Wait for a verified CapCut project or published template link before attempting to use it."
+      ],
+      "image": "/assets/previews/clean-reel-captions.webp",
+      "imageAlt": "Preview of a dark vertical-video editor with colorful caption tracks",
+      "imageWidth": 544,
+      "imageHeight": 344,
+      "contentStatus": "preview",
+      "featured": true
+    },
+    {
+      "slug": "landing-page-reviewer",
+      "title": "Landing Page Reviewer",
+      "category": "skills",
+      "description": "Get a clear review of your landing page content and structure.",
+      "overview": "Review a page for clarity, navigation, visual hierarchy, and calls to action.",
+      "benefits": [
+        "Value proposition review",
+        "Mobile readability checklist",
+        "Prioritized improvement suggestions"
+      ],
+      "includedFiles": [],
+      "includedFilesNote": "No downloadable ChatGPT Skill package is included in this preview.",
+      "requirements": [],
+      "requirementsNote": "Tool, model, and installation requirements have not been confirmed.",
+      "usageInstructions": [
+        "Provide the page text or screenshots and explain its audience and main action.",
+        "Review every recommendation in the context of your product and audience."
+      ],
+      "image": "/assets/previews/landing-page-reviewer.webp",
+      "imageAlt": "Preview artwork with a landing-page checklist and blue wireframe",
+      "imageWidth": 552,
+      "imageHeight": 358,
+      "contentStatus": "preview",
+      "featured": false
+    },
+    {
+      "slug": "brand-moodboard-prompts",
+      "title": "Brand Moodboard Prompts",
+      "category": "prompts",
+      "description": "Explore visual directions for your next brand concept.",
+      "overview": "Use structured prompts to explore colors, materials, imagery, and mood.",
+      "benefits": [
+        "Brand personality questions",
+        "Moodboard composition prompts",
+        "Color and texture directions"
+      ],
+      "includedFiles": [],
+      "includedFilesNote": "The full prompt collection has not been supplied for this preview.",
+      "requirements": [],
+      "requirementsNote": "Compatible tools and any model-specific requirements have not been confirmed.",
+      "usageInstructions": [
+        "Describe your audience, brand personality, and visual constraints.",
+        "Refine the direction with your own references before making brand decisions."
+      ],
+      "image": "/assets/previews/brand-moodboard-prompts.webp",
+      "imageAlt": "Preview of an editorial coastal brand moodboard in neutral and blue tones",
+      "imageWidth": 550,
+      "imageHeight": 358,
+      "contentStatus": "preview",
+      "featured": false
+    },
+    {
+      "slug": "minimal-product-showcase",
+      "title": "Minimal Product Showcase",
+      "category": "templates",
+      "description": "A sleek vertical video concept for product presentations.",
+      "overview": "An editorial product presentation with generous spacing and refined typography.",
+      "benefits": [
+        "9:16 showcase concept",
+        "Product title and detail layout",
+        "Visual pacing reference"
+      ],
+      "includedFiles": [],
+      "includedFilesNote": "No CapCut project file or published template link is included.",
+      "requirements": [],
+      "requirementsNote": "CapCut version, region availability, and Free or Pro requirements are unknown.",
+      "usageInstructions": [
+        "Use the still preview to evaluate the intended product-showcase direction.",
+        "Wait for a verified CapCut project or published template link before attempting to use it."
+      ],
+      "image": "/assets/previews/minimal-product-showcase.webp",
+      "imageAlt": "Preview of a sunlit cosmetic bottle with minimal blue typography",
+      "imageWidth": 544,
+      "imageHeight": 358,
+      "contentStatus": "preview",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "ANX Studio Digital",
+  "short_name": "ANX Studio",
+  "description": "Creative resources and open-source tools from ANX Studio Digital.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#3548ed",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "224x224",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+
